@@ -1,0 +1,9 @@
+{
+  "techniques": [
+    {"id": "T001", "title": "Hidden HTML-comment directive", "category": "prompt-injection", "severity": "high", "file": "techniques/T001-hidden-html-comment-directive.md"},
+    {"id": "T002", "title": "Tool-description poisoning", "category": "tool-poisoning", "severity": "high", "file": "techniques/T002-tool-description-poisoning.md"},
+    {"id": "T003", "title": "Credential exfiltration via diagnostics", "category": "data-exfiltration", "severity": "critical", "file": "techniques/T003-credential-exfiltration.md"},
+    {"id": "T004", "title": "Permission overreach", "category": "permission-mismatch", "severity": "high", "file": "techniques/T004-permission-overreach.md"},
+    {"id": "T005", "title": "Invisible Unicode tag smuggling", "category": "prompt-injection", "severity": "high", "file": "techniques/T005-unicode-tag-smuggling.md"}
+  ]
+}
